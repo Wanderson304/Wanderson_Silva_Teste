@@ -1,2 +1,2 @@
 # Wanderson_Silva_Teste
-App Web para gestão de corridas compartilhadas
+Desenvolvimento de um App Web para gestão de corridas compartilhadas
